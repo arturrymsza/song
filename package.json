@@ -1,0 +1,25 @@
+{
+  "name": "nauka-gita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturrymsza/nauka-gita.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturrymsza/nauka-gita/issues"
+  },
+  "homepage": "https://github.com/arturrymsza/nauka-gita#readme",
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.18.13",
+    "nu-html-checker": "^0.1.0"
+  }
+}
